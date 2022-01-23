@@ -16,5 +16,5 @@ clock = Label(master, font=("calibri",90),bg="white", fg="blue")
 clock.pack()
 
 get_time()
-#Kommentarer
+#Kommentarer har lagts till
 master.mainloop()
